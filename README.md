@@ -11,8 +11,7 @@ npm run dev
 
 ## Observações
 
-- Imagens principais e cinco capas reproduzidas a partir dos próprios layers do Figma, armazenadas em `public/assets`.
-- Capa de *Konspirasi alam semesta* ainda não extraída nesta versão.
+- As sete imagens usadas no layout (hero e capas dos livros) foram recuperadas diretamente dos layers do Figma, em `public/assets`.
 - Layout desktop baseado em 1440 px e adaptação responsiva.
-- Busca, filtro, carrinho e navegação demonstrativos; sem backend de compras ou autenticação.
-- A fidelidade visual pixel a pixel ainda não foi validada com comparação de capturas do navegador.
+- Busca, filtro, carrinho e navegação são demonstrativos; sem backend de pagamentos ou login.
+- A fidelidade pixel a pixel ainda requer uma comparação visual no navegador.
